@@ -1,5 +1,5 @@
 
-Minimal ClojureScript demo with Bool
+Minimal ClojureScript demo with Boot
 ---
 
 ### Guide
